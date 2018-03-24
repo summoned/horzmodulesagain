@@ -1,0 +1,5 @@
+rootProject.name = 'horzmodulesagain'
+include 'main-horz-module'
+include 'extra-horz-module'
+include 'horz-module-gateway'
+
